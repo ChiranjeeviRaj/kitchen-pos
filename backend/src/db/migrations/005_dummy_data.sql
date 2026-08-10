@@ -1,0 +1,2 @@
+-- Dummy data removed. This migration is intentionally empty.
+-- Previously inserted dev-only seed data that polluted production installs.
