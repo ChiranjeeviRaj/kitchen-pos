@@ -28,7 +28,7 @@ const mockApi = {
         {
           id: 1, name: 'Starters', sort_order: 1, is_active: 1,
           items: [
-            { id: 101, category_id: 1, name: 'Paneer Tikka', price: 250, is_veg: 1, is_available: 1, cgst_rate: 2.5, sgst_rate: 2.5, hsn_code: '2106' },
+            { id: 101, category_id: 1, name: 'Paneer Tikka', price: 260, is_veg: 1, is_available: 1, cgst_rate: 2.5, sgst_rate: 2.5, hsn_code: '2106' },
             { id: 102, category_id: 1, name: 'Chicken Tikka', price: 350, is_veg: 0, is_available: 1, cgst_rate: 2.5, sgst_rate: 2.5, hsn_code: '2106' },
           ]
         },
