@@ -72,3 +72,5 @@ backend/playwright-video/
 .ds-sync
 ds-bundle/
 .design-sync/*
+# Local Netlify folder
+.netlify
