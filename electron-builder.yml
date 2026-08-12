@@ -21,5 +21,5 @@ nsis:
   allowToChangeInstallationDirectory: true
 publish:
   provider: github
-  owner: REPLACE_WITH_GITHUB_USERNAME
-  repo: restaurant-pos
+  owner: ChiranjeeviRaj
+  repo: kitchen-pos
