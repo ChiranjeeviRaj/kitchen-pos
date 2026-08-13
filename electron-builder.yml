@@ -1,7 +1,7 @@
 appId: com.restaurantpos.app
 productName: Restaurant POS
 directories:
-  output: dist-electron
+  output: cc-pos1
 files:
   - backend/dist/**/*
   - frontend/dist/**/*
